@@ -1,0 +1,8 @@
+Please install the following MATLAB Add-Ons before running any files:
+
+Model predictive control toolbox
+Robotics system toolbox
+Simulink
+Simscape multibody
+Simulink
+MATLAB Support for OpenJDK
